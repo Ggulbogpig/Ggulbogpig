@@ -1,4 +1,4 @@
-# Hi I'm Hyunmin Song, AI & Game developer. Nice to meet you!
+# Hi I'm Hyunmin Song, AI & Game developer. Nice to meet you! 👋
 
 
 
