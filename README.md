@@ -26,6 +26,19 @@
 ### Baekjoon Solved.ac Card
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbsssssong)](https://solved.ac/hbsssssong)
 
+
+### Career
+경희대학교 공간빅데이터 연구실 학부연구생 (Geospatial Bigdata Lab Intern)
+
+2024.2 ~ 2025.3
+
+- 학부 연구 인턴으로 참여하여, Python, R 언어를 이용한 데이터 전처리 및 분석 시행
+- QGIS, ArcPro를 사용하여 지역 격차와 관련한 공간데이터 분석 시행 및 지도 시각화
+- KIC 우수 등재 논문 발간, 학회 발표 참여
+
+
+
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 **Ggulbogpig/Ggulbogpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
