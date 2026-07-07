@@ -27,6 +27,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbsssssong)](https://solved.ac/hbsssssong)
 
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ### 🎮 Career & Projects
 경희대학교 공간빅데이터 연구실 학부연구생 (Geospatial Bigdata Lab Intern)
 
@@ -53,8 +55,6 @@
 
 
 
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 **Ggulbogpig/Ggulbogpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
